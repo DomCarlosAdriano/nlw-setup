@@ -99,8 +99,8 @@ input {
 }
 
 input:checked {
-  background: #8b5cf6;
-  border: 2px solid #A78BFA;
+  background: #5cf67d;
+  border: 2px solid #3adc15;
 }
 
 @media(max-width:570px) {
